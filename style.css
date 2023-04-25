@@ -11,6 +11,8 @@
  body {
      background: url(images/landingpage.png);
      background-size: cover;
+     width: 100vw ; 
+     height: 70vh;
  }
 
  /* Create two equal columns that floats next to each other */
